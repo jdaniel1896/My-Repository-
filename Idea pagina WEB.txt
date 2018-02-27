@@ -1,0 +1,9 @@
+La idea de mi pagina Web es realizar una pagina de venta de objetos deportivos donde puedas traer información 
+directamente de la pagina oficial de la marca de tu interes en ese articulo o de otras paginas webs de terceros donde
+lo que realizan es revender y puede que estos precios apliquen algun descuento o aparezcan más favorable que la pagina 
+oficial o viceversa. En si es una pagina donde puedes ubicar donde esta tu articulo mas favorable y entregarte un link 
+donde te lleve directamente a esta pagina. Tambien, si es posible, dar información de los detalles (estadisticas, jugadas,
+marcador, etc.) de un deporte o desportes en especifico que sean de interes del usuario. 
+
+Idea realizada por: 
+José Daniel Velásquez Gómez 
